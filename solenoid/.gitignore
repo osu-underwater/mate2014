@@ -1,0 +1,16 @@
+#Ignore compiled files
+*.eep
+*.elf
+*.hex
+*.map
+*.o
+dep/
+
+# Ignore documentation
+*.pdf
+
+# Ignore vim sap files
+*.swp
+
+# Ignore my "template" folder
+template/
